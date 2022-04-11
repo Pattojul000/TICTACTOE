@@ -1,7 +1,7 @@
 package org.WalkerCC_CompSci;
 
 import java.util.ArrayList;
-import java.util.Random;
+
 
 public class Arrays {
     public static void main(String[] args) {
